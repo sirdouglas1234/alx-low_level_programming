@@ -3,9 +3,8 @@
 
 /**
  *
- *  * main - Entry point
+ *  * main - Entry point (Start)
  *
- *   *
  *
  *    * Return: Always 0 (Success)
  *
